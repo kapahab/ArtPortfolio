@@ -1,6 +1,7 @@
 # ArtPortfolio
 A collection of my 3D and 2D works
 
+![a](hand.gif)
 
 I spent some time working as a 3D art freelancer. During that time I've worked with clients building web games, 3D print enthusiasts and board game developers. 
 I also have done 2D art purely as a hobby for some time. 
